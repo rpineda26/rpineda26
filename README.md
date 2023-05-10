@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Ralph Dawson G. Pineda and am currently taking BS in Computer Science major in Software Technology in De La Salle University Manila.
+
+🌱 I’m currently learning:
+  
+  operating systems - How they work, and what functionalities should they provide.
+  
+  circuit boards - How to build my own computer from scratch by designing and building my own circuit boards.
+  
