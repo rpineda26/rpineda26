@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I am Ralph Dawson G. Pineda and am currently taking BSMS in Computer Science major in Software Technology in De La Salle University Manila.
 
-  
+👯 I’m looking for job opportunities to apply my skills to meet high quality business standards/
